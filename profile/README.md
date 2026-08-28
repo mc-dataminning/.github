@@ -1,7 +1,6 @@
-<img width="1810" height="630" alt="MINECRAFT (4)" src="https://github.com/user-attachments/assets/4b20d888-8d6f-48b6-a4ce-767835d9faf4" />
+<img width="1810" height="630" alt="MINECRAFT (9)" src="https://github.com/user-attachments/assets/9fa8fd3a-7119-41dc-97d9-891dd7b9b496" />
 
-# Datamining (noun)
 The practice of searching through large amounts of computerized data to find useful informations.
 
-# Info
+# Information
 Researching Minecraft Client/Server jars alongside with other Mojang CDN's to find interesting data and potentially find bugs for Mojira Bug Tracker.
