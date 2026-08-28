@@ -2,4 +2,4 @@
 
 # Information
 > Datamining is the he practice of searching through large amounts of computerized data to find useful informations.
-Researching Minecraft Client/Server jars alongside with other Mojang CDN(s) to find interesting data and potentially find bugs for Mojira Bug Tracker.
+- Researching Minecraft Client/Server .jar files, along several CDN(s) to find interesting data and track updates across builds, blog posts, and more..
